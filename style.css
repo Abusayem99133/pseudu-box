@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins' sans-serif;
+    background-color: bisque;
+}
+
+.tayef {
+    background-image: url(tawbah.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sayem {
+    text-align: center;
+}
+
+.tawbah {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px, 40px;
+    color: green;
+    font-weight: 700;
+    border-radius: 2px;
+}
+
+.flexible-aria {
+    display: flex;
+    margin: 30px;
+    margin-left: 5px;
+    padding-right: 5px;
+}
